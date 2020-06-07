@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto|Ubuntu');
+
+.introducao h2{
+    font-size: 90px;
+}
+
+.menu-topo ul a li{
+    letter-spacing: 1px;
+    font-size: 18px;
+    color: #5f3510;
+}
+
+.texto-sobre h2{
+    white-space: nowrap;
+    font-size: 45px;
+    letter-spacing: 1px;
+}
+
+.texto-sobre p{
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+
+.div-intro .texto h2{
+    width: 60%;
+    margin: 0 auto;
+    font-size: 55px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-top:2px solid white;
+    border-bottom:2px solid white;
+}
+
+.div-intro .texto p{
+    font-size:27px;
+}
+
+.div-intro .texto a{
+    border: 1px solid white;
+    font-size:18px;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.sobre .row .text-center h4{
+    font-weight: 600;
+    font-size: 33px;
+    letter-spacing: 2px;
+}
+
+.sobre .row .text-center p{
+    letter-spacing: 1px;
+    color: #808080;
+}
+
+.texto-sobre h4{
+    font-size: 28px;
+    letter-spacing: 1px;
+}
+
+.texto-sobre p{
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+.encomende h3{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.encomende p{
+    color: white;
+    font-size: 23px;
+    letter-spacing: 1px;
+}
+
+.encomende h4{
+    margin-top: -15px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-decoration: underline;
+}
+
+.encomende h4:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.prod-populares h3{
+    font-weight: 600;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.prod-populares .ubuntu{
+    letter-spacing: 1px;
+    color: #808080;
+}
+
+.prod-populares h5{
+    font-weight: 600;
+}
+
+.prod-populares div h6{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.func-div h3{
+    font-weight: 600;
+    font-size: 34px;
+}
+
+.funcionamento span{
+    font-size: 55px;
+    border: 3px solid #5f3510;
+    border-radius: 50%;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-bottom: 2px;
+    color: #5f3510;
+}
+
+.funcionamento h5{
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.funcionamento p{
+    font-size: 17px;
+}
+
+.comentarios h3{
+    font-weight: 600;
+    font-size: 32px;
+    letter-spacing: 1px;
+}
+
+.comentarios .row h5{
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.comentarios .row p{
+    font-size: 17px;
+}
+
+.local h3{
+    font-weight: 600;
+    font-size: 32px;
+    letter-spacing: 1px;
+}
+
+.local h2{
+    letter-spacing: 1px;
+}
+
+.local p{
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+.local span{
+    letter-spacing: 1px;
+}
+
+.local span i{
+    font-size: 25px;
+    color: #059aab;
+}
+
+.local span article{
+    padding-left: 35px;
+}
+
+.footer .menu-footer li a{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 17px;
+}
+
+.footer .suporte h4{
+    color: white;
+    letter-spacing: 1px;
+}
+
+.footer .suporte .r-tel span i{
+    color: white;
+    font-size: 20px;
+}
+
+.footer .suporte .r-tel p{
+    color: white;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+.footer .suporte .r-email span i{
+    color: white;
+    font-size: 20px;
+}
+
+.footer .suporte .r-email div p{
+    color: white;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+.footer .siganos h4{
+    color: white;
+    letter-spacing: 1px;
+}
+
+.footer .siganos p i{
+    color: white;
+    font-size: 25px;
+}
+
+.footer .siganos p{
+    color: white;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.footer .telefone h4{
+    color: white;
+    letter-spacing: 1px;
+}
+
+.footer .telefone p i{
+    color: white;
+    font-size: 25px;
+}
+
+.footer .telefone p{
+    color: white;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+
+.menu-footer ul a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.trabs-foot{
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.trabs-li-foot{
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #a29f9f;
+    transition: all .1s ease-in-out;
+}
+
+.siga{
+    font-size: 20px;
+    color: white;
+    letter-spacing: 2px;
+    margin-left:20px;
+}
+
+.contact{
+    font-size: 18px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.um-pouco-mais h5{
+    color: #808080;
+}
+
+.um-pouco-mais p{
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+.ver-produtos h3{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.ver-produtos p{
+    color: white;
+    font-size: 23px;
+    letter-spacing: 1px;
+}
+
+.ver-produtos a{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 1px;
+    background: #808080;
+    transition: all .2s ease;
+    border-radius: 30px;
+}
+
+.ver-produtos a:hover{
+    transition: all .2s ease;
+    color: white;
+    box-shadow: 4px 4px 3px 3px rgba(0 , 0, 0, 0.4);
+}
+
+.mais-sobre{
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.adquira-produto{
+    color: #808080;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
